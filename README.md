@@ -10,7 +10,7 @@
 ## Dania bezmięsne:
 - [Placki ziemniaczane]
 ## Dodatki:
-- [Surówka azjatycka]
+- [Surówka azjatycka](sides/Surowka_azjatycka.md)
 
 ## Przystawki:
 - [Wędlina peklowana](starters/Wedlina_peklowana.md)
