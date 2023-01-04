@@ -19,7 +19,7 @@
 3. Po zagotowaniu wodę przełożyć na bardzo mały ogień (jak na rosół), dodać przyprawy i ogrzewać jeszcze 10 minut, mieszając 2-3 razy.
 4. Przed zalaniem mięsa wystudzić zalewę.
 
-### Stosowanie
+### Gotowanie
 1. Litr zalewy wystarcza na 0.75~1 kg mięsa.
 2. Kawałki marynowanego mięsa w przekroju nie powinny być większe niż duży schab wieprzowy.
 3. Peklowanie powinno się odbywać w temperaturze 5~12°C przez 7-10 dni.
