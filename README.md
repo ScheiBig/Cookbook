@@ -4,7 +4,7 @@
 ## Dania mięsne:
 - [Wieprzowe roladki pieczarkowo-porowe]
 - [Kurczak w sosie musztardowo-miodowym]
-- [Kurczak po wietnamsku]
+- [Kurczak po wietnamsku](meats/Kurczak_po_wietnamsku.md)
 - [Polędwiczka w sosie kurkowym]
 
 ## Dania bezmięsne:

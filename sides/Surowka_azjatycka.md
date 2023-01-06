@@ -20,3 +20,4 @@
 
 ### Uwagi
 Surówkę można przechowywać 2-3 dni w lodówce.
+Przepis daje 8-12 porcji surówki.
