@@ -1,5 +1,7 @@
 # Surówka azjatycka
 
+![Zdjęcie dania](Surowka_azjatycka.jpg)
+
 ### Składniki
 - 1 biała kapusta lub pekińska
 - 2 duże marchewki
