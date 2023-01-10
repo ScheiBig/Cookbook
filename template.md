@@ -1,5 +1,7 @@
 # ~~Nazwa~~
 
+![Zdjęcie dania]()
+
 ### Składniki
 
 

@@ -5,12 +5,13 @@
 - [Wieprzowe roladki pieczarkowo-porowe]
 - [Kurczak w sosie musztardowo-miodowym]
 - [Kurczak po wietnamsku](meats/Kurczak_po_wietnamsku.md)
-- [Polędwiczka w sosie kurkowym]
+- [Polędwiczki w sosie kurkowym](meats/Poledwiczki_w_sosie_kurkowym.md)
 
 ## Dania bezmięsne:
 - [Placki ziemniaczane]
 ## Dodatki:
 - [Surówka azjatycka](sides/Surowka_azjatycka.md)
+- [Pieczone ziemniaki]
 
 ## Przystawki:
 - [Wędlina peklowana](starters/Wedlina_peklowana.md)
@@ -20,3 +21,4 @@
 
 ## Przetwory
 - [Ketchup]
+- [Ogórki kanapkowe]

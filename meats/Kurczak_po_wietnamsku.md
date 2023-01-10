@@ -6,7 +6,7 @@
 - 0.5kg mięsa z udek kurczaka
 - 200g papryki konserwowej
 - 2 średnie cebule
-- 30g margaryny
+- 15+15g margaryny
 - 30ml tabasco
 - 20ml sosu sojowego
 - 3 ząbki czosnku
