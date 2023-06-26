@@ -5,9 +5,10 @@
 ### Składniki
 - 1 biała kapusta lub pekińska
 - 2 duże marchewki
-- 100ml octu (najlepiej ryżowego)
+- 100ml octu *(najlepiej ryżowego)*
 - 70g cukru
-- 50ml oliwy
+- 45ml oliwy
+- 3ml oleju z sezamu *(tłoczonego na zimno)*
 - 4 ząbki czosnku
 - 5ml soli
 

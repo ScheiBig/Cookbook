@@ -33,4 +33,5 @@
 
 ### Uwagi
 Podawać na gorąco z ryżem i [surówką azjatycką](../sides/Surowka_azjatycka.md).\
-Przepis daje 3 porcje.
+Przepis daje 3 porcje.\
+Danie należy zjeść w ciągu dwóch dni - bardzo szybko psuje się nawet w temperaturach bliskich zera.
