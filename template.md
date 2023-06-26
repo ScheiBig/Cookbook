@@ -1,6 +1,6 @@
 # ~~Nazwa~~
 
-![Zdjęcie dania]()
+![Zdjęcie dania](../template.jpg)
 
 ### Składniki
 

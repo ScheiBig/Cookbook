@@ -1,5 +1,7 @@
 # Gofry
 
+![Zdjęcie dania](../template.jpg)
+
 ### Składniki
 - 250g mąki
 - 330g mleka

@@ -1,6 +1,6 @@
-# ~~Nazwa~~
+# Placki ziemniaczane
 
-![Zdjęcie dania]()
+![Zdjęcie dania](../template.jpg)
 
 ### Składniki
 
