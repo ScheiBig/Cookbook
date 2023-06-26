@@ -28,7 +28,7 @@
 1. Patelnię rozgrzać na średnim ogniu, roztopić na niej połowę margaryny; smażyć cebulę do skarmelizowania.
 2. Cebulę zdjąć do miski; zwiększyć ogień na średnio-wysoki, roztopić resztę margaryny; smażyć kurczaka do zbrązowienia.
 3. Zmniejszyć ogień na niski; dosypać przyprawy i czosnek, i podsmażać 1 minutę ciągle mieszając.
-4. Zalać całość sosami, wymieszać i dusić przez 5 minut.
+4. Zalać całość sosami, wymieszać do sdeglasowania patelni i dusić przez 5 minut.
 5. Dodać paprykę i delikatnie wymieszać, dusić jeszcze 3 minuty.
 
 ### Uwagi

@@ -6,6 +6,7 @@
 - [Kurczak w sosie musztardowo-miodowym](meats/Kurczak_w_sosie_musztardowo-miodowym.md)
 - [Kurczak po wietnamsku](meats/Kurczak_po_wietnamsku.md)
 - [Polędwiczka w sosie kurkowym](meats/Poledwiczka_w_sosie_kurkowym.md)
+- [Karkówka w sosie własnym](meats/Karkowka_w_sosie_wlasnym.md)
 
 ## Dania bezmięsne:
 - [Placki ziemniaczane](vegs/Placki_ziemniaczane.md)
