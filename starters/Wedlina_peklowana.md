@@ -17,7 +17,7 @@
 
 ### Przygotowanie
 1. Wodę wlać do garnka, dodać sól pek. i cukier br., doprowadzić do wrzenia często mieszając.
-2. Odmierzyć przyprawy; przyprawy w ziarnach należy pokruszyć (w moździerzu, młynku lub bokiem noża na desce do krojenia).
+2. Przyprawy w ziarnach należy pokruszyć (w moździerzu, młynku lub bokiem noża na desce do krojenia).
 3. Po zagotowaniu wodę przełożyć na bardzo mały ogień (jak na rosół), dodać przyprawy i ogrzewać jeszcze 10 minut, mieszając 2-3 razy.
 4. Przed zalaniem mięsa wystudzić zalewę.
 

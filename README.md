@@ -22,4 +22,4 @@
 
 ## Przetwory
 - [Ketchup]
-- [Ogórki kanapkowe]
+- [Ogórki kanapkowe](preserves/Ogorki_kanapkowe.md)
