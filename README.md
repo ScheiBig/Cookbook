@@ -3,12 +3,12 @@
 
 ## Dania mięsne:
 - [Wieprzowe roladki pieczarkowo-porowe]
-- [Kurczak w sosie musztardowo-miodowym]
+- [Kurczak w sosie musztardowo-miodowym](meats/Kurczak_w_sosie_musztardowo-miodowym.md)
 - [Kurczak po wietnamsku](meats/Kurczak_po_wietnamsku.md)
 - [Polędwiczki w sosie kurkowym](meats/Poledwiczki_w_sosie_kurkowym.md)
 
 ## Dania bezmięsne:
-- [Placki ziemniaczane]
+- [Placki ziemniaczane](vegs/Placki_ziemniaczane.md)
 ## Dodatki:
 - [Surówka azjatycka](sides/Surowka_azjatycka.md)
 - [Pieczone ziemniaki]

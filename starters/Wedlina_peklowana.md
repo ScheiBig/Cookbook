@@ -1,5 +1,7 @@
 # Wędlina peklowana
 
+![Zdjęcie dania](Wedlina_peklowana.jpg)
+
 ### Składniki (standardowa)
 - 1l wody
 - 60g soli peklującej
