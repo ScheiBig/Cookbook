@@ -10,12 +10,12 @@
 - 30ml tabasco
 - 20ml sosu sojowego
 - 3 ząbki czosnku
-- 5g papryki słodkiej
-- 5g pieprzu
-- 2g nasion kopru włoskiego
-- 2g lubczyku
-- 1g imbiru
-- 0.5g cynamonu
+- 5ml papryki słodkiej
+- 5ml pieprzu
+- 2ml nasion kopru włoskiego
+- 2ml lubczyku
+- 1ml imbiru
+- 0.5ml cynamonu
 - 2 goździki
 
 ### Przygotowanie

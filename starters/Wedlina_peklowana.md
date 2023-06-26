@@ -6,12 +6,12 @@
 - 1l wody
 - 60g soli peklującej
 - 20g cukru brązowego
-- 1 łyżeczka majeranku
-- 1 łyżeczka pieprzu (ziarna)
-- 1 łyżeczka czosnku (suszonego)
-- 0.5 łyżeczki tymianku
-- 0.5 łyżeczki kolendry
-- 0.5 łyżeczki gorczycy
+- 5ml majeranku
+- 5ml pieprzu (ziarna)
+- 5ml czosnku (suszonego)
+- 2.5ml tymianku
+- 2.5ml kolendry
+- 2.5ml gorczycy
 - 3 ziarna ziela angielskiego
 - 2 liście laurowe
 

@@ -1,6 +1,6 @@
-# Polędwiczki w sosie kurkowym
+# Polędwiczka w sosie kurkowym
 
-![Zdjęcie dania](Poledwiczki_w_sosie_kurkowym.jpg)
+![Zdjęcie dania](Poledwiczka_w_sosie_kurkowym.jpg)
 
 ### Składniki
 - 1 polędwiczka wieprzowa (~0.5kg)
@@ -11,13 +11,13 @@
 - 50+15ml wody
 - 15+15ml oliwy z oliwek
 - 2 małe ząbki czosnku
-- 6g skrobi ziemniaczanej
-- 4g soli
-- 4g pieprzu
-- 3g rozmarynu
-- 3g czosnku suszonego
-- 3g pietruszki
-- 2g tymianku
+- 6ml skrobi ziemniaczanej
+- 4ml soli
+- 4ml pieprzu
+- 3ml rozmarynu
+- 3ml czosnku suszonego
+- 3ml pietruszki
+- 2ml tymianku
 - 1/4 koski rosołowej wołowej
 
 ### Przygotowanie

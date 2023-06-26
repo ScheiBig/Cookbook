@@ -9,7 +9,7 @@
 - 70g cukru
 - 50ml oliwy
 - 4 ząbki czosnku
-- 1 łyżka soli
+- 5ml soli
 
 ### Przygotowanie
 1. Kapustę drobno zsiekać (zachowując głąby), marchew zetrzeć na drobnych oczkach, czosnek zmielić nożem lub przez praskę.
