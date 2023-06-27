@@ -34,7 +34,7 @@
 ### Gotowanie
 1. Mięso ugotować sous-vide przez 3h w 75°C.
 2. Na patelni rozpuścić masło, dodać cebulę i podsmażać na średnim ogniu aż zacznie się karmelizować.
-3. Zmniejszyć ogień na mały i zalać cebulę wódką, mieszać aż patelnia się zdeglasuje.
+3. Zmniejszyć ogień na niski; zalać cebulę wódką i mieszać aż patelnia się zdeglasuje.
 4. Dodać warzywa, podsmażać aż zmiękną, po czym dodać czosnek i podsmażać jeszcze 30s.
 5. Wlać do warzyw bulion oraz płyn z torebki z mięsem, mieszać aż do rozpuszczenia białka/tłuszczu z mięsa.
 6. Do sosu dodać mięso, śmietankę oraz zioła i dusić przez 10min.

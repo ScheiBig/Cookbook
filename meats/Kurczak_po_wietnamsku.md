@@ -25,7 +25,7 @@
 4. Przyprawy zmielić w młynku.
 
 ### Gotowanie
-1. Patelnię rozgrzać na średnim ogniu, roztopić na niej połowę margaryny; smażyć cebulę do skarmelizowania.
+1. 15g margaryny wrzucić na patelnię, roztopić na średnim ogniu; smażyć cebulę do skarmelizowania.
 2. Cebulę zdjąć do miski; zwiększyć ogień na średnio-wysoki, roztopić resztę margaryny; smażyć kurczaka do zbrązowienia.
 3. Zmniejszyć ogień na niski; dosypać przyprawy i czosnek, i podsmażać 1min ciągle mieszając.
 4. Zalać całość sosami, wymieszać do sdeglasowania patelni i dusić przez 5min.
