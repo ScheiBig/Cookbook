@@ -28,6 +28,19 @@
 - [Biszkopt](desserts/Biszkopt.md)
 - [Kopiec kreta](desserts/Kopiec_kreta.md)
 
-## Przetwory
+## Przetwory:
 - [Ketchup](preserves/Ketchup.md)
 - [Ogórki kanapkowe](preserves/Ogorki_kanapkowe.md)
+
+---
+### Stan przepisów w trakcie przygotowania:
+| Składniki | Przepis | Zdjęcie | Nazwa | 
+| --- | --- | --- | --- |
+|  |  |  | Wieprzowe roladki pieczarkowo-porowe |
+|  |  |  | Placki ziemniaczane |
+|  |  |  | Pieczone ziemniaki |
+| ✔️ |  |  | Pasztet wieprzowo-drobiowy z wędzonką |
+| ✔️ | ✔️ |  | Gofry |
+|  |  |  | Biszkopt |
+|  |  |  | Kopiec kreta |
+|  |  |  | Ketchup |
