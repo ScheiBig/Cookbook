@@ -18,7 +18,7 @@
 - 5ml kminu
 
 ### Przygotowanie
-1. Ogórki zalać całkowicie zimną wodą i namaczać przez 4-8 godzin (w zależności on nawodnienia gleby).
+1. Ogórki zalać całkowicie zimną wodą i namaczać przez 4-8h (w zależności on nawodnienia gleby).
 2. Po namoczeniu, pokroić ogórki w 3-4mm plastry po długości.
 3. Przyprawy w ziarnach należy pokruszyć (w moździerzu, młynku lub bokiem noża na desce do krojenia).
 
@@ -29,7 +29,7 @@
 4. Zebrać przyprawy sitkiem, przełożyć do miseczki i wymieszać, rozłożyć po równo do słoików.
 5. Rozlać zalewę po równo słoików - w razie zbraknięcia można uzupełnić octem jabłkowym.
 6. Słoiki zamknąć i ułożyć w zimnym piekarniku do góry dnami, ustawić temperaturę 120°C bez termoobiegu.
-7. Po nagrzaniu piekarnika, wekować na sucho słoiki przez 40 minut, po upłynięciu czasu wyłączyć ogrzewanie i uchylić drzwiczki na 1-2mm (włożyć metalową łyżkę u góry drzwiczek).
+7. Po nagrzaniu piekarnika, wekować na sucho słoiki przez 40min, po upłynięciu czasu wyłączyć ogrzewanie i uchylić drzwiczki na 1-2mm (włożyć metalową łyżkę u góry drzwiczek).
 8. Wystudzić słoiki wewnątrz piekarnika (4-6h). Odłożyć w suche i chłodne miejsce.
 
 ### Uwagi

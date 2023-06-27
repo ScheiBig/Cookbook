@@ -27,9 +27,9 @@
 ### Gotowanie
 1. Patelnię rozgrzać na średnim ogniu, roztopić na niej połowę margaryny; smażyć cebulę do skarmelizowania.
 2. Cebulę zdjąć do miski; zwiększyć ogień na średnio-wysoki, roztopić resztę margaryny; smażyć kurczaka do zbrązowienia.
-3. Zmniejszyć ogień na niski; dosypać przyprawy i czosnek, i podsmażać 1 minutę ciągle mieszając.
-4. Zalać całość sosami, wymieszać do sdeglasowania patelni i dusić przez 5 minut.
-5. Dodać paprykę i delikatnie wymieszać, dusić jeszcze 3 minuty.
+3. Zmniejszyć ogień na niski; dosypać przyprawy i czosnek, i podsmażać 1min ciągle mieszając.
+4. Zalać całość sosami, wymieszać do sdeglasowania patelni i dusić przez 5min.
+5. Dodać paprykę i delikatnie wymieszać, dusić jeszcze 3min.
 
 ### Uwagi
 Podawać na gorąco z ryżem i [surówką azjatycką](../sides/Surowka_azjatycka.md).\

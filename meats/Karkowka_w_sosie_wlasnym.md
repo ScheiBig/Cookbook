@@ -25,7 +25,7 @@
 - 2 liście laurowe
 
 ### Przygotowanie
-1. Suche przyprawy zmielić w młynku, zmieszać z 5ml oliwy.
+1. Suche przyprawy zmielić w młynku, zmieszać z oliwą.
 2. Karkówkę oczyścić, pokroić w 6 plastrów, natrzeć przyprawami, spakować w torebkę próżniową i marynować przynajmniej 4h w lodówce.
 3. Cebulę pokroić w kostkę <3mm, marchewkę i pietruszkę w cienkie paski po szerokości, natkę (i ew. lubczyk) zsiekać, czosnek zmielić nożem lub przez praskę.
 4. Kostkę rosołową rozpuścić w 45ml wody.
@@ -35,10 +35,10 @@
 1. Mięso ugotować sous-vide przez 3h w 75°C.
 2. Na patelni rozpuścić masło, dodać cebulę i podsmażać na średnim ogniu aż zacznie się karmelizować.
 3. Zmniejszyć ogień na mały i zalać cebulę wódką, mieszać aż patelnia się zdeglasuje.
-4. Dodać warzywa, podsmażać aż zmiękną, po czym dodać czosnek i podsmażać jeszcze 30 sekund.
+4. Dodać warzywa, podsmażać aż zmiękną, po czym dodać czosnek i podsmażać jeszcze 30s.
 5. Wlać do warzyw bulion oraz płyn z torebki z mięsem, mieszać aż do rozpuszczenia białka/tłuszczu z mięsa.
-6. Do sosu dodać mięso, śmietankę oraz zioła i dusić przez 10 minut.
-7. Zagęścić sos zawiesiną, dusić dodatkowe 2 minuty mieszając kilka razy.
+6. Do sosu dodać mięso, śmietankę oraz zioła i dusić przez 10min.
+7. Zagęścić sos zawiesiną, dusić dodatkowe 2min mieszając kilka razy.
 
 ### Uwagi
 Podawać na gorąco z ziemniakami lub kaszą i surówką.\

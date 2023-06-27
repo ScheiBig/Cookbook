@@ -30,12 +30,12 @@
 ### Gotowanie
 1. 15ml oliwy wlać na patelnię, rozgrzać na średnim ogniu; zeszklić szalotkę.
 2. Zwiększyć ogień na średnio-wysoki; dodać kurki i smażyć aż do odparowania ciągle mieszając.
-3. Zmniejszyć ogień na średnio-niski, dosypać czosnek i podsmażać 1 minutę ciągle mieszając.
+3. Zmniejszyć ogień na średnio-niski, dosypać czosnek i podsmażać 1min ciągle mieszając.
 4. Zalać całość winem i odparować większość alkoholu, mieszając tak aby patelnia się zdelgasowała.
 5. Dolać wywar i wymieszać.
 6. Mięso z sosem ugotować sous-vide przez 3h w 65°C.
 7. Sos z torebki wylać na patelnię, dodać śmietanki i zawiesiny; dokładnie wymieszać.
-8. Mięso skroić w 1.5cm plastry, dodać do sosu; dusić przez 5 minut.
+8. Mięso skroić w 1.5cm plastry, dodać do sosu; dusić przez 5min.
 
 ### Uwagi
 Podawać na gorąco z gotowanymi lub pieczonymi warzywami.\

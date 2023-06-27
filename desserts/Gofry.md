@@ -22,8 +22,7 @@
 ### Gotowanie
 1. Ciasto należy wypiec od razu, inaczej proszek do pieczenia "wygazuje" się.
 2. Gofry wypiekać wg preferencji, układać na kratce aby zachować chrupkość.
-3. Gofry można przygotować do odpiekania; należy piec je 0.5 minuty krócej, oraz układać
-   na stos, tak aby się "zaparowały"
+3. Gofry można przygotować do odpiekania; należy piec je 0.5m krócej, oraz układać na stos, tak aby się "zaparowały"
 
 ### Uwagi
 Należy uważać, aby nie przebić białek.\
