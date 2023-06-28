@@ -1,4 +1,4 @@
-# Biszkopt
+# Sernik pistacjowy
 
 ![Zdjęcie dania](../template.jpg)
 
@@ -12,3 +12,4 @@
 
 
 ### Uwagi
+

@@ -8,6 +8,9 @@
 - [Polędwiczka w sosie kurkowym](meats/Poledwiczka_w_sosie_kurkowym.md)
 - [Polędwiczka a'la Marbella](meats/Poledwiczka_a-la_Marbella.md)
 - [Karkówka w sosie własnym](meats/Karkowka_w_sosie_wlasnym.md)
+- [Stek Salisbury](meats/Stek_Salisbury.md)
+- [Ryba po Grecku](meats/Ryba_po_Grecku.md)
+- [Klopsiki w sosie pieczarkowym](meats/Klopsiki_w_sosie_pieczarkowym.md)
 
 ## Dania bezmięsne:
 - [Placki ziemniaczane](vegs/Placki_ziemniaczane.md)
@@ -25,8 +28,10 @@
 
 ## Desery:
 - [Gofry](desserts/Gofry.md)
-- [Biszkopt](desserts/Biszkopt.md)
+- [Biszkopt tortowy](desserts/Biszkopt_tortowy.md)
 - [Kopiec kreta](desserts/Kopiec_kreta.md)
+- [Ciasto 'Mandarynka'](desserts/Ciasto_-Mandarynka-.md)
+- [Sernik pistacjowy](desserts/Sernik_pistacjowy.md)
 
 ## Przetwory:
 - [Ketchup](preserves/Ketchup.md)
@@ -40,6 +45,11 @@
 | ✔️ | ✔️ |  | Pieczone ziemniaki |
 | ✔️ | ✔️ |  | Pasztet wieprzowo-drobiowy z wędzonką |
 | ✔️ | ✔️ |  | Gofry |
-|  |  |  | Biszkopt |
+|  |  |  | Biszkopt tortowy |
 |  |  |  | Kopiec kreta |
 |  |  |  | Ketchup |
+|  |  |  | Stek Salisbury |
+|  |  |  | Ryba po Grecku |
+|  |  |  | Ciasto 'Mandarynka' |
+|  |  |  | Sernik pistacjowy |
+|  |  |  | Klopsiki w sosie pieczarkowym |
