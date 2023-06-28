@@ -37,7 +37,7 @@
 | Składniki | Przepis | Zdjęcie | Nazwa | 
 | --- | --- | --- | --- |
 |  |  |  | Wieprzowe roladki pieczarkowo-porowe |
-|  |  |  | Pieczone ziemniaki |
+| ✔️ | ✔️ |  | Pieczone ziemniaki |
 | ✔️ | ✔️ |  | Pasztet wieprzowo-drobiowy z wędzonką |
 | ✔️ | ✔️ |  | Gofry |
 |  |  |  | Biszkopt |
