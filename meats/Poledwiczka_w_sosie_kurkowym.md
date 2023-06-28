@@ -29,7 +29,7 @@
 
 ### Gotowanie
 1. 15ml oliwy wlać na patelnię, rozgrzać na średnim ogniu; zeszklić szalotkę.
-2. Zwiększyć ogień na średnio-wysoki; dodać kurki i smażyć aż do odparowania ciągle mieszając.
+2. Zwiększyć ogień na średnio-wysoki; dodać kurki i smażyć aż do odparowania wody ciągle mieszając.
 3. Zmniejszyć ogień na średnio-niski; dosypać czosnek i podsmażać 1min ciągle mieszając.
 4. Zalać całość winem i odparować większość alkoholu, mieszając tak aby patelnia się zdelgasowała.
 5. Dolać wywar i wymieszać.

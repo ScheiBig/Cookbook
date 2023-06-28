@@ -35,7 +35,7 @@
 
 ### Gotowanie
 1. Mięso z dodatkami ugotować sous-vide przez 3h w 65°C.
-2. Z torebki wylać sos do miski, oraz oderwać przyklejone do mięsa dodatki, odłożyć razem z sosem na bok.
+2. Z torebki wylać sos do miski, oraz oderwać przyklejone do mięsa dodatki; odłożyć razem z sosem na bok.
 3. Mięso skroić w 1.5cm plastry.
 4. Na patelnię wlać pozostałą oliwę, rozgrzać na średnim ogniu; przysmażyć polędwiczki od strony cięcia aż lekko się zabrązowią.
 5. Zmniejszyć ogień na niski; zalać patelnię winem i mieszać do zdeglasowania.
