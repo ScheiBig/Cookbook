@@ -39,6 +39,9 @@
 
 ---
 ### Stan przepisów w trakcie przygotowania:
+- ✔️ - wykonane
+- ❓ - posiadane w formie tymczasowej
+  
 | Składniki | Przepis | Zdjęcie | Nazwa | 
 | :-: | :-: | :-: | --- |
 |  |  |  | Wieprzowe roladki pieczarkowo-porowe |
@@ -47,8 +50,7 @@
 |  |  |  | Biszkopt tortowy |
 |  |  |  | Kopiec kreta |
 |  |  |  | Ketchup |
-|  |  | ❓ | Stek Salisbury |
+| ❓ |  |  | Stek Salisbury |
 |  |  |  | Ryba po Grecku |
 |  |  | ❓ | Ciasto 'Mandarynka' |
 |  |  | ❓ | Sernik pistacjowy |
-|  |  |  | Klopsiki w sosie pieczarkowym |
