@@ -73,7 +73,7 @@ def main():
     inserting_position += category_position
     
     # Insert URL to new recipe and table row in TODO table
-    readme.insert(inserting_position, f"- [{name}]({file_name})\n")
+    readme.insert(inserting_position, f"- <img src='not-done.thumbnail.jpg' style='height: 1em;'> [{name}]({file_name})\n")
     readme.append(f"|  |  |  | {name} |\n")
 
     # Replace README.md with new one
