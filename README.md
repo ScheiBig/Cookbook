@@ -42,14 +42,13 @@
 | Składniki | Przepis | Zdjęcie | Nazwa | 
 | :-: | :-: | :-: | --- |
 |  |  |  | Wieprzowe roladki pieczarkowo-porowe |
-| ✔️ | ✔️ |  | Pieczone ziemniaki |
 | ✔️ | ✔️ |  | Pasztet wieprzowo-drobiowy z wędzonką |
 | ✔️ | ✔️ |  | Gofry |
 |  |  |  | Biszkopt tortowy |
 |  |  |  | Kopiec kreta |
 |  |  |  | Ketchup |
-|  |  |  | Stek Salisbury |
+|  |  | ❓ | Stek Salisbury |
 |  |  |  | Ryba po Grecku |
-|  |  |  | Ciasto 'Mandarynka' |
-|  |  |  | Sernik pistacjowy |
+|  |  | ❓ | Ciasto 'Mandarynka' |
+|  |  | ❓ | Sernik pistacjowy |
 |  |  |  | Klopsiki w sosie pieczarkowym |

@@ -1,6 +1,6 @@
 # Pieczone ziemniaki
 
-![Zdjęcie dania](../template.jpg)
+![Zdjęcie dania](Pieczone_ziemniaki.jpg)
 
 ### Składniki
 - 0.5kg ziemniaków
