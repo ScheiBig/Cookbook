@@ -11,6 +11,7 @@
 - <img src='not-done.thumbnail.jpg' style='height: 1em;'> [Stek Salisbury](meats/Stek_Salisbury.md)
 - <img src='not-done.thumbnail.jpg' style='height: 1em;'> [Ryba po Grecku](meats/Ryba_po_Grecku.md)
 - <img src='./meats/Klopsiki_w_sosie_pieczarkowym.thumbnail.jpg' style='height: 1em;'> [Klopsiki w sosie pieczarkowym](meats/Klopsiki_w_sosie_pieczarkowym.md)
+- <img src='./meats/Chili_con_carne.jpg' style='height: 1em;'> [Chili con carne](meats/Chili_con_carne.md)
 
 ## Dania bezmięsne:
 - <img src='./vegs/Placki_ziemniaczane.thumbnail.jpg' style='height: 1em;'> [Placki ziemniaczane](vegs/Placki_ziemniaczane.md)
@@ -54,3 +55,4 @@
 |  |  |  | Ryba po Grecku |
 |  |  | ❓ | Ciasto 'Mandarynka' |
 |  |  | ❓ | Sernik pistacjowy |
+|  |  |  | Chili con carne |
