@@ -3,7 +3,7 @@
 ![Zdjęcie dania](Wedlina_peklowana.jpg)
 
 ### Składniki (standardowa)
-- 1l wody
+- 1000ml wody
 - 60g soli peklującej
 - 20g cukru brązowego
 - 5ml majeranku
@@ -22,7 +22,7 @@
 4. Przed zalaniem mięsa wystudzić zalewę.
 
 ### Gotowanie
-1. Litr zalewy wystarcza na 0.75~1 kg mięsa.
+1. Litr zalewy wystarcza na 750~1000 g mięsa.
 2. Kawałki marynowanego mięsa w przekroju nie powinny być większe niż duży schab wieprzowy.
 3. Peklowanie powinno się odbywać w temperaturze 5~12°C przez 7-10 dni.
 4. Po peklowaniu mięso trzeba namaczać w takiej samej ilości świeżej, zimnej wody jak wcześniej zalewy (2x po 10min).

@@ -3,10 +3,10 @@
 ![Zdjęcie dania](../template.jpg)
 
 ### Składniki
-- 1kg karkówki wieprzowej
-- 1.5kg udek z kurczaka *lub* 1kg mięsa z udek kurczaka
-- 0.4kg wątróbki drobiowej
-- 0.4kg boczku wędzonego surowego
+- 1000g karkówki wieprzowej
+- 1500g udek z kurczaka *lub* 1000g mięsa z udek kurczaka
+- 200g wątróbki drobiowej
+- 400g boczku wędzonego surowego
 - 2 duże marchewki
 - 1 duża pietruszka
 - 80ml natki pietruszki

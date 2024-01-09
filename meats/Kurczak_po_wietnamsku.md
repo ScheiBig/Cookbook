@@ -3,7 +3,7 @@
 ![Zdjęcie dania](Kurczak_po_wietnamsku.jpg)
 
 ### Składniki
-- 0.5kg mięsa z udek kurczaka
+- 500g mięsa z udek kurczaka
 - 200g papryki konserwowej
 - 2 średnie cebule
 - 15+15g margaryny

@@ -3,7 +3,7 @@
 ![Zdjęcie dania](Poledwiczka_w_sosie_kurkowym.jpg)
 
 ### Składniki
-- 1 polędwiczka wieprzowa *(~0.5kg)*
+- 1 polędwiczka wieprzowa *(~500g)*
 - 125g kurek
 - 100ml wina białego
 - 80ml śmietany 30%

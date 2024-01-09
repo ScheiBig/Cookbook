@@ -3,7 +3,7 @@
 ![Zdjęcie dania](Placki_ziemniaczane.jpg)
 
 ### Składniki
-- 0.5kg ziemniaków
+- 500g ziemniaków
 - 1 mała cebula
 - 1 jajko *(w miarę możliwości albo małe, albo pół)*
 - 12ml mąki

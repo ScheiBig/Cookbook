@@ -3,10 +3,10 @@
 ![Zdjęcie dania](Ogorki_kanapkowe.jpg)
 
 ### Składniki
-- 5kg ogórków
+- 5000g ogórków
 - 1.5l wody + woda do namaczania ogórków
 - 1.5l octu jabłkowego
-- 1kg cukru
+- 1000g cukru
 - 60ml soli
 - 30ml gorczycy
 - 25ml pieprzu kolorowego

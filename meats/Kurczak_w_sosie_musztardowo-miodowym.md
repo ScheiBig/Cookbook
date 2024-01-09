@@ -3,7 +3,7 @@
 ![Zdjęcie dania](Kurczak_w_sosie_musztardowo-miodowym.jpg)
 
 ### Składniki
-- 0.5kg mięsa z udek kurczaka 
+- 500g mięsa z udek kurczaka 
 - 200g cebuli perłowej
 - 200g kukurydzy mini
 - 125+5ml wody

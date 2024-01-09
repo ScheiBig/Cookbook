@@ -3,7 +3,7 @@
 ![Zdjęcie dania](Poledwiczka_a-la_Marbella.jpg)
 
 ### Składniki
-- 1 polędwiczka wieprzowe *(~0.5kg)*
+- 1 polędwiczka wieprzowe *(~500g)*
 - 80ml wina
 - 50+5ml wody
 - 40g oliwek zielonych *(lub mix zielonych i czarnych w stosunku 2:1)*

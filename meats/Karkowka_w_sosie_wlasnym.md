@@ -3,7 +3,7 @@
 ![Zdjęcie dania](../meats/Karkowka_w_sosie_wlasnym.jpg)
 
 ### Składniki
-- 0.5kg karkówki
+- 500g karkówki
 - 1 mała cebula 
 - 1 mała marchewka
 - 1 mała pietruszka

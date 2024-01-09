@@ -3,7 +3,7 @@
 ![Zdjęcie dania](Pieczone_ziemniaki.jpg)
 
 ### Składniki
-- 0.5kg ziemniaków
+- 500g ziemniaków
 - 50g sera żółtego *(łatwo topiącego się)*
 - 30ml oliwy
 - 7ml soli
