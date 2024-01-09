@@ -8,7 +8,7 @@
 - <img src='./meats/Poledwiczka_w_sosie_kurkowym.thumbnail.jpg' style='height: 1em;'> [Polędwiczka w sosie kurkowym](meats/Poledwiczka_w_sosie_kurkowym.md)
 - <img src='./meats/Poledwiczka_a-la_Marbella.thumbnail.jpg' style='height: 1em;'> [Polędwiczka a'la Marbella](meats/Poledwiczka_a-la_Marbella.md)
 - <img src='./meats/Karkowka_w_sosie_wlasnym.thumbnail.jpg' style='height: 1em;'> [Karkówka w sosie własnym](meats/Karkowka_w_sosie_wlasnym.md)
-- <img src='not-done.thumbnail.jpg' style='height: 1em;'> [Stek Salisbury](meats/Stek_Salisbury.md)
+- <img src='./meats/Stek_Salisbury.jpg' style='height: 1em;'> [Stek Salisbury](meats/Stek_Salisbury.md)
 - <img src='not-done.thumbnail.jpg' style='height: 1em;'> [Ryba po Grecku](meats/Ryba_po_Grecku.md)
 - <img src='./meats/Klopsiki_w_sosie_pieczarkowym.thumbnail.jpg' style='height: 1em;'> [Klopsiki w sosie pieczarkowym](meats/Klopsiki_w_sosie_pieczarkowym.md)
 - <img src='./meats/Chili_con_carne.jpg' style='height: 1em;'> [Chili con carne](meats/Chili_con_carne.md)
@@ -51,8 +51,6 @@
 |  |  |  | Biszkopt tortowy |
 |  |  |  | Kopiec kreta |
 |  |  |  | Ketchup |
-| ❓ |  |  | Stek Salisbury |
 |  |  |  | Ryba po Grecku |
 |  |  | ❓ | Ciasto 'Mandarynka' |
 |  |  | ❓ | Sernik pistacjowy |
-|  |  |  | Chili con carne |

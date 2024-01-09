@@ -4,7 +4,7 @@
 
 ### Składniki
 - 500g sosu meksykańskiego z warzywami (1 słoik, preferowany Łowicz)
-- 450g mięsa mielonego wołowego
+- 450g mięsa mielonego wołowego lub wołowo-wieprzowego
 - 150ml wody
 - 1 puszka fasoli czerwonej (240g netto)
 - 1 puszka kukurydzy (220g netto)

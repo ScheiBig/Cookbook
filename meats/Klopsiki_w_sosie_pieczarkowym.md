@@ -3,7 +3,7 @@
 ![Zdjęcie dania](Klopsiki_w_sosie_pieczarkowym.jpg)
 
 ### Składniki
-- 0.4kg mięsa mielonego wieprzowo-wołowego
+- 450g mięsa mielonego wieprzowo-wołowego
 - 250ml wody
 - 15 średnich pieczarek
 - 1 duża cebula
